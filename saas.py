@@ -1,0 +1,2 @@
+# samik
+print("sami")
